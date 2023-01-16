@@ -1,0 +1,12 @@
+JSON
+
+{
+  $schema httpsrailway.apprailway.schema.json,
+  build {
+    builder NIXPACKS
+  },
+  deploy {
+    restartPolicyType ON_FAILURE,
+    restartPolicyMaxRetries 10
+  }
+}
