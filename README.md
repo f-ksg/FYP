@@ -1,2 +1,2 @@
 # FYP
-Initial html fioles for first presentation 
+Initial html files for first presentation 
